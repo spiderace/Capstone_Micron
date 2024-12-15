@@ -1,3 +1,6 @@
+# Capstone_Micron_Final
+For the final submission, I added LSTM analysis that was learned in the last lecture.  It is proven to be a superior method.
+
 # Capstone_Micron
 Capstone Project for AI/MI extension class
 
